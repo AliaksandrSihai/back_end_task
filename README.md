@@ -5,4 +5,4 @@
 - подключена база данных (mongo DB),
 - создана модель user
 
-Зависимости в requirements.txt, необходимые конфигурации в .env-sample .
+Зависимости в requirements.txt, необходимые конфигурации в .env_sample .
